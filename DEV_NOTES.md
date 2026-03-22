@@ -6,3 +6,6 @@ Personal development log — notes, findings, and ongoing work.
 - Updated CI cache strategy
 - Refactored module structure for clarity
 - Bumped patch version
+
+## 2026-03-23
+- Improved log message formatting
